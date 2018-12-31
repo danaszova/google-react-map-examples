@@ -46,7 +46,6 @@ class App extends Component {
         );
     }
 
-    console.log(process.env);
     return (
       <div>
         <div className="App">
