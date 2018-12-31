@@ -1,4 +1,4 @@
 export default {
-  apiKey: "XXXX - YOUR API KEY HERE",
+  apiKey: process.env.REACT_APP_GOOGLE_KEY,
   version: "weekly",
 };
