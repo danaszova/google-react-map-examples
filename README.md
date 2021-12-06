@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Description
 
 A Collection of working Google Maps Examples built using the "google-maps-react" package available via npm / yarn.
+
+eg:
+
 ![Map with Basic Polygon Selection Tool](src/maps/assets/screenshots/polygonmap.png?raw=true "Basic Polygon Selection Tool")
 
 [google-maps-react]
