@@ -9,6 +9,14 @@ eg:
 [google-maps-react]
 (https://github.com/fullstackreact/google-maps-react}
 
+
+
+## Aside
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 ## Usage
 
 ```
